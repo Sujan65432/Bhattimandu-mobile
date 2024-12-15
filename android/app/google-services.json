@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708962562307",
+    "project_id": "bhattimandu",
+    "storage_bucket": "bhattimandu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708962562307:android:74a05f97fd27b8ec277936",
+        "android_client_info": {
+          "package_name": "com.example.bhattimandu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQf2JCHkVjCs8UZHHq3fM5_s_9DHJfho0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
