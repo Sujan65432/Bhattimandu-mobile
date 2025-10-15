@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">राइडस्मार्ट</string>
+    <string name="nav_dashboard">ड्यासबोर्ड</string>
+    <string name="nav_eco">इको ट्र्याकर</string>
+    <string name="nav_map">नक्शा</string>
+    <string name="nav_settings">सेटिङ</string>
+    <string name="login_title">लगइन</string>
+    <string name="email_hint">इमेल</string>
+    <string name="password_hint">पासवर्ड</string>
+    <string name="login_button">साइन इन</string>
+    <string name="register_prompt">खाता बनाउनुहोस्</string>
+    <string name="logout">लगआउट</string>
+    <string name="crash_detected_title">दुर्घटना पत्ता लाग्यो</string>
+    <string name="crash_detected_message">हामीले सम्भावित दुर्घटना पत्ता लगायौँ। सुरक्षित हुनुहुन्छ भने समयमै रद्द गर्नुहोस्।</string>
+    <string name="cancel">रद्द</string>
+    <string name="eco_score_label">इको स्कोर</string>
+    <string name="start_ride">राइड सुरु</string>
+    <string name="stop_ride">राइड समाप्त</string>
+    <string name="distance_format">दूरी: %1$.2f कि.मि.</string>
+    <string name="speed_format">गति: %1$.1f कि.मि./घण्टा</string>
+    <string name="hazard_dialog_title">खतरा रिपोर्ट</string>
+    <string name="hazard_title_hint">शीर्षक</string>
+    <string name="hazard_description_hint">विवरण</string>
+    <string name="submit">पेश गर्नुहोस्</string>
+    <string name="sync_toast">%1$d रेकर्ड क्लाउडमा समक्रमित</string>
+    <string name="permission_denied">अनुमति नआएसम्म सुविधा असक्षम</string>
+    <string name="settings_dark_mode">डार्क मोड</string>
+    <string name="emergency_sms_message">आपतकालीन! सम्भावित दुर्घटना %1$f,%2$f मा</string>
+    <string name="crash_notification_title">राइडस्मार्ट दुर्घटना निगरानी</string>
+    <string name="crash_notification_body">सुरक्षाका लागि राइड निरीक्षण हुँदै</string>
+    <string name="eco_score_progress">इको स्कोर: %1$d</string>
+    <string name="name_hint">पूरा नाम</string>
+    <string name="contact_hint">आपतकालीन सम्पर्क नम्बर</string>
+    <string name="profile_saved">प्रोफाइल सुरक्षित भयो</string>
+</resources>
