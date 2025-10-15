@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.ridesmart.ui.DashboardFragment"
+        android:label="@string/nav_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/ecoTrackerFragment"
+        android:name="com.ridesmart.ui.EcoTrackerFragment"
+        android:label="@string/nav_eco"
+        tools:layout="@layout/fragment_eco_tracker" />
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.ridesmart.ui.MapFragment"
+        android:label="@string/nav_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.ridesmart.ui.SettingsFragment"
+        android:label="@string/nav_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

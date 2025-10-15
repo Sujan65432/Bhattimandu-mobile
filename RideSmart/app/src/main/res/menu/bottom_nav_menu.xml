@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/nav_dashboard" />
+    <item
+        android:id="@+id/ecoTrackerFragment"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/nav_eco" />
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/nav_map" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/nav_settings" />
+</menu>
